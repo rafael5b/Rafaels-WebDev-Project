@@ -1,0 +1,44 @@
+body{ font-family:Arial, Helvetica, sans-serif !important;
+   
+}
+/* unvisited link */
+a:link {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: large;
+    color: black;
+  }
+nav{ font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: justify left;
+    flex-wrap: wrap;
+}
+/* visited link */
+a:link { font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    flex-wrap: wrap;
+    text-align: center;
+    color: black;
+}
+h1{
+    font-family: Verdana, Tahoma, sans-serif!important;
+    font-size: xx-large;
+    color: white;
+	height: 100% !important;
+	margin: 0 !important;
+	text-align: center !important;
+	width: 100% !important;
+ }
+h2{
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: black;
+    text-align: left;
+    font-size: medium;
+ }
+ h3{
+    font-family: Arial, Helvetica, sans-serif !important;
+    color: white;
+    text-align: left;
+    flex-wrap: wrap;
+ }

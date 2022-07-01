@@ -1,0 +1,36 @@
+body{ font-family:'Times New Roman', Times, serif !important;
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 82px;
+    color: white;
+	height: 100% !important;
+	margin: 0 !important;
+	text-align: center !important;
+	width: 100% !important;
+ }
+h2{
+    font-family: 'Times New Roman', Times, serif !important;
+	height: 100% !important;
+	margin: 0 !important;
+	text-align: center !important;
+	width: 100% !important;
+ }
+ a{ text-align: left;
+}
+/* unvisited link */
+a:link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+     flex-wrap: wrap;
+     font-size: large;
+     color: white;
+    }
+    /* visited link */
+a:link { font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    flex-wrap: wrap;
+    text-align: center;
+    color: white;
+}
